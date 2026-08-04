@@ -12,8 +12,7 @@ var config = {
     config: {
         mixins: {
             'mage/validation': {
-                'js/mage/validation-mixin': true,
-                'js/prototype-fire-fix': true
+                'js/mage/validation-mixin': true
             }
         }
     },
@@ -30,4 +29,5 @@ var config = {
         'Magento_Theme/js/js-theme'
     ]
 };
-// app/design/frontend/Megazone/theme/requirejs-config.js
+
+// app/design/frontend/Philip/theme/requirejs-config.js
