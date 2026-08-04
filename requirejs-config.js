@@ -30,3 +30,4 @@ var config = {
         'Magento_Theme/js/js-theme'
     ]
 };
+// app/design/frontend/Megazone/theme/requirejs-config.js
