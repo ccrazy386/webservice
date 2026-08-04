@@ -72,3 +72,5 @@
     // window load 시에도 재확인 (안전장치)
     window.addEventListener('load', applyPrototypeFix);
 })();
+
+// app/design/frontend/Philip/theme/web/js/prototype-fire-fix.js
